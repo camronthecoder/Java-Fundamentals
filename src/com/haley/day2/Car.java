@@ -1,8 +1,8 @@
 package com.haley.day2;
 
 public class Car {
-    public String make;
-    public String model;
+    private String make;
+    private String model;
     private int speed;
     private  int mileage;
     private float gasTankPercent;
@@ -15,6 +15,47 @@ public class Car {
         this.gasTankPercent = gasTankPercent;
 
     }
+
+    public String getMake() {
+        return make;
+    }
+
+    public void setMake(String make) {
+        this.make = make;
+    }
+
+    public String getModel() {
+        return model;
+    }
+
+    public void setModel(String model) {
+        this.model = model;
+    }
+
+    public int getSpeed() {
+        return speed;
+    }
+
+    public void setSpeed(int speed) {
+        this.speed = speed;
+    }
+
+    public int getMileage() {
+        return mileage;
+    }
+
+    public void setMileage(int mileage) {
+        this.mileage = mileage;
+    }
+
+    public float getGasTankPercent() {
+        return gasTankPercent;
+    }
+
+    public void setGasTankPercent(float gasTankPercent) {
+        this.gasTankPercent = gasTankPercent;
+    }
+
     public void getInfo() {
         System.out.println("The " + make + " " + model + " " + "has a top speed of "  + speed +  " MPH." + "The car gets " + mileage + " miles per gallon and has a gas tank percentage of " + gasTankPercent + " percent.");
 

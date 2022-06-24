@@ -15,7 +15,7 @@ public class Main {
         
         Car[] carsArray = {car1, car2, car3};
         for (int i = 0; i < carsArray.length ; i++) {
-           System.out.println(carsArray[i].make + " " + carsArray[i].model);
+           System.out.println(carsArray[i]);
         }
 
     }}
