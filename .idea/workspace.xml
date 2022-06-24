@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0a6f409-9af7-4230-a7f6-c6d329e9a3ce" name="Changes" comment="minute to second">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/haley/jsFoundations/getFirstElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/haley/jsFoundations/indexFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/haley/jsFoundations/nextNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/haley/jsFoundations/scentenceCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/haley/mosh/Variable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/haley/day2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/haley/day2/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/haley/day2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/haley/day2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656024317129</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="minute to second">
+      <created>1656031121485</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656031121485</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
