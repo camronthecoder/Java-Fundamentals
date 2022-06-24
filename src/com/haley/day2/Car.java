@@ -1,8 +1,8 @@
 package com.haley.day2;
 
 public class Car {
-    private String make;
-    private String model;
+    public String make;
+    public String model;
     private int speed;
     private  int mileage;
     private float gasTankPercent;

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0a6f409-9af7-4230-a7f6-c6d329e9a3ce" name="Changes" comment="minute to second" />
+    <list default="true" id="e0a6f409-9af7-4230-a7f6-c6d329e9a3ce" name="Changes" comment="minute to second">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/haley/day2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/haley/day2/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/haley/day2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/haley/day2/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656031550225</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="minute to second">
+      <created>1656031926205</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656031926206</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

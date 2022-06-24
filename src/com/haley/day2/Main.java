@@ -12,4 +12,10 @@ public class Main {
         car1.getInfo();
         car2.getInfo();
         car3.getInfo();
+        
+        Car[] carsArray = {car1, car2, car3};
+        for (int i = 0; i < carsArray.length ; i++) {
+           System.out.println(carsArray[i].make + " " + carsArray[i].model);
+        }
+
     }}
