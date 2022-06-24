@@ -5,9 +5,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Car car1 =  new Car("Audi", "Q8",  200, 20, 0.5f );
-        Car car2 =  new Car("Ferrari", "La Ferrari",  250, 12, 0.2f );
-        Car car3 =  new Car("Ford", "Mustang",  255, 14, 0.9f );
+        Car car1 =  new Car("Audi", "Q8",  190, 16, 0.5f );
+        Car car2 =  new Car("Ferrari", "La Ferrari",  231, 12, 0.2f );
+        Car car3 =  new Car("Ford", "Mustang",  175, 14, 0.9f );
 
         car1.getInfo();
         car2.getInfo();
