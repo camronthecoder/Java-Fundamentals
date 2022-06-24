@@ -16,7 +16,7 @@ public class Car {
 
     }
     public void getInfo() {
-        System.out.println( make + " " + model + " " + "car's top speed is "  + speed +  " m/hr." + "The car's mileage is" + " " + mileage + " miles per gallon and the gas tank percentage is" + " " + gasTankPercent + ".");
+        System.out.println( make + " " + model + " " + "top speed is "  + speed +  " m/hr." + "The car's mileage is" + " " + mileage + " miles per gallon and the gas tank percentage is" + " " + gasTankPercent + ".");
 
     }
 }

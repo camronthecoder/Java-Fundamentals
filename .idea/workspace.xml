@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0a6f409-9af7-4230-a7f6-c6d329e9a3ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/haley/day1/Main.java" afterDir="false" />
+    <list default="true" id="e0a6f409-9af7-4230-a7f6-c6d329e9a3ce" name="Changes" comment="minute to second">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/haley/jsFoundations/getFirstElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/haley/jsFoundations/indexFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/haley/jsFoundations/nextNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/haley/jsFoundations/scentenceCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/haley/mosh/Variable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/haley/day2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/haley/day2/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/haley/day2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/haley/day2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +30,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2AXsPNH3CYdSSN3hXPdDkmbZrgn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -31,21 +41,75 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/cameronhaley/Documents/career devs/cohort18/intermediate curriculum /javafundementals&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/cameronhaley/Documents/career devs/cohort18/intermediate curriculum /javafundementals",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.haley.day1.Main" />
+}]]></component>
+  <component name="RunManager" selected="Application.com.haley.day2.Main">
+    <configuration name="com.haley.day2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haley.day2.Main" />
       <module name="javafundementals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.haley.day1.*" />
+          <option name="PATTERN" value="com.haley.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getFirstElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haley.jsFoundations.getFirstElement" />
+      <module name="javafundementals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haley.jsFoundations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="indexFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haley.jsFoundations.indexFinder" />
+      <module name="javafundementals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haley.jsFoundations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nextNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haley.jsFoundations.nextNumber" />
+      <module name="javafundementals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haley.jsFoundations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scentenceCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haley.jsFoundations.scentenceCreator" />
+      <module name="javafundementals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haley.jsFoundations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,7 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.com.haley.day2.Main" />
+        <item itemvalue="Application.getFirstElement" />
+        <item itemvalue="Application.scentenceCreator" />
+        <item itemvalue="Application.indexFinder" />
+        <item itemvalue="Application.nextNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -68,6 +136,28 @@
       <option name="presentableId" value="Default" />
       <updated>1655167240262</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created first java class">
+      <created>1655171836191</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655171836191</updated>
+    </task>
+    <task id="LOCAL-00002" summary="minute to second">
+      <created>1655847509842</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655847509842</updated>
+    </task>
+    <task id="LOCAL-00003" summary="minute to second">
+      <created>1656024317129</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656024317129</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +170,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created first java class" />
+    <MESSAGE value="minute to second" />
+    <option name="LAST_COMMIT_MESSAGE" value="minute to second" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javafundementals$getFirstElement.ic" NAME="getFirstElement Coverage Results" MODIFIED="1655424817522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.haley.jsFoundations.*</FILTER>
+    </SUITE>
   </component>
 </project>
