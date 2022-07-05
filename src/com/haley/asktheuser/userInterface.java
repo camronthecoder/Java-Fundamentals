@@ -17,17 +17,31 @@ public class userInterface {
         System.out.println("HOw many dogs do you have?");
         byte numberOfDogs = scanner.nextByte();
         System.out.println("You have " + numberOfDogs + " dogs");
-    }
+
+        if (numberOfDogs>4){
+            System.out.println("wow thats a lot of dogs!");
+        }
+        else {System.out.println("thats a normal amount of dogs!");
+    }}
     public static void shortScanner(){
         System.out.println("what is the population of your city ? ");
         short population = scanner.nextShort();
         System.out.println(population + " people");
+        if (population> 10000){
+            System.out.println("wow thats a big city");
+        }
+        else {System.out.println("thats a small city!");
 
-    }
+    }}
     public static void intScanner (){
         System.out.println("How many cats do you have?");
-        int numberOfDogs = scanner.nextInt();
-        System.out.println("You have " + numberOfDogs + " cats");
+        int numberOfCats = scanner.nextInt();
+        System.out.println("You have " + numberOfCats + " cats");
+                if (numberOfCats>4){
+                    System.out.println("wow thats a lot of dogs!");
+                }
+                else {System.out.println("thats a normal amount of cats!");
+                }
     }
     public static void floatScanner (){
         System.out.println("What is the number pi to the nearest 10th decimal?");
