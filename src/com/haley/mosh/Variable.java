@@ -5,7 +5,7 @@ import java.util.Date;
 public class Variable {
     //class = function in js
     //public = it will be a pulic class.
-    //static= the class doesnt have to be called for it to work(global varitable).
+    //static= single occurance of field or method (global variable).
     //void = doesnt return anything.
     //main starts the class without it class wont work
     public static void main (String[] args){

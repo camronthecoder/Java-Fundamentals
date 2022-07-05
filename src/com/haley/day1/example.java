@@ -1,4 +1,4 @@
-package com.haley.day2;
+package com.haley.day1;
 
 public class example {
     private String name;

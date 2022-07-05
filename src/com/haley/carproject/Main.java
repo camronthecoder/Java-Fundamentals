@@ -1,4 +1,4 @@
-package com.haley.day2;
+package com.haley.carproject;
 
 
 public class Main {

@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0a6f409-9af7-4230-a7f6-c6d329e9a3ce" name="Changes" comment="minute to second">
+      <change afterPath="$PROJECT_DIR$/src/com/haley/asktheuser/userInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/haley/jsFoundations/age.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/haley/jsFoundations/getterSetterPractice/Account.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/haley/day2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/haley/carproject/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/haley/day2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/haley/carproject/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/haley/day2/example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/haley/day1/example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/haley/mosh/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/haley/mosh/Variable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,23 +40,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/cameronhaley/Documents/career devs/cohort18/intermediate curriculum /javafundementals",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/cameronhaley/Documents/career devs/cohort18/Intermediate/javafundementals&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.com.haley.day2.Main">
-    <configuration name="com.haley.day2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.haley.day2.Main" />
+}</component>
+  <component name="RunManager" selected="Application.Account">
+    <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haley.jsFoundations.getterSetterPractice.Account" />
       <module name="javafundementals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.haley.day2.*" />
+          <option name="PATTERN" value="com.haley.jsFoundations.getterSetterPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haley.jsFoundations.age" />
+      <module name="javafundementals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haley.jsFoundations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,32 +79,6 @@
     </configuration>
     <configuration name="getFirstElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.haley.jsFoundations.getFirstElement" />
-      <module name="javafundementals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.haley.jsFoundations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="indexFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.haley.jsFoundations.indexFinder" />
-      <module name="javafundementals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.haley.jsFoundations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="nextNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.haley.jsFoundations.nextNumber" />
       <module name="javafundementals" />
       <extension name="coverage">
         <pattern>
@@ -109,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="userInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.haley.asktheuser.userInterface" />
+      <module name="javafundementals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haley.asktheuser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.haley.day2.Main" />
+        <item itemvalue="Application.Account" />
+        <item itemvalue="Application.userInterface" />
+        <item itemvalue="Application.age" />
         <item itemvalue="Application.getFirstElement" />
         <item itemvalue="Application.scentenceCreator" />
-        <item itemvalue="Application.indexFinder" />
-        <item itemvalue="Application.nextNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656032882885</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="minute to second">
+      <created>1656034832730</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656034832730</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +209,21 @@
     <MESSAGE value="Created first java class" />
     <MESSAGE value="minute to second" />
     <option name="LAST_COMMIT_MESSAGE" value="minute to second" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/haley/carproject/Car.java</url>
+          <line>53</line>
+          <properties class="com.haley.carproject.Car" method="setGasTankPercent">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/javafundementals$getFirstElement.ic" NAME="getFirstElement Coverage Results" MODIFIED="1655424817522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
