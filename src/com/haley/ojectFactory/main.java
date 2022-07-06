@@ -1,2 +1,4 @@
-package com.haley.ojectFactory;public class main {
+package com.haley.ojectFactory;
+
+public class main {
 }
